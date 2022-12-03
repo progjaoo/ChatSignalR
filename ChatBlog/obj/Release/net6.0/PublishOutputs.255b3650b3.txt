@@ -1,0 +1,8 @@
+G:\Trabalhos Faculdade\ChatBlogtest\ChatBlog\obj\Release\net6.0\PubTmp\Out\ChatBlog.exe
+G:\Trabalhos Faculdade\ChatBlogtest\ChatBlog\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+G:\Trabalhos Faculdade\ChatBlogtest\ChatBlog\obj\Release\net6.0\PubTmp\Out\appsettings.json
+G:\Trabalhos Faculdade\ChatBlogtest\ChatBlog\obj\Release\net6.0\PubTmp\Out\libman.json
+G:\Trabalhos Faculdade\ChatBlogtest\ChatBlog\obj\Release\net6.0\PubTmp\Out\ChatBlog.dll
+G:\Trabalhos Faculdade\ChatBlogtest\ChatBlog\obj\Release\net6.0\PubTmp\Out\ChatBlog.deps.json
+G:\Trabalhos Faculdade\ChatBlogtest\ChatBlog\obj\Release\net6.0\PubTmp\Out\ChatBlog.runtimeconfig.json
+G:\Trabalhos Faculdade\ChatBlogtest\ChatBlog\obj\Release\net6.0\PubTmp\Out\ChatBlog.pdb

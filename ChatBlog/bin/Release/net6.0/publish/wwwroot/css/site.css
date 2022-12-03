@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+  font-family: Calibri;
+}
+
+body {
+  margin-bottom: 60px;
+}
+#test {
+    min-width: 150px;
+    max-width: 1000px;
+    height: calc(100% - 50px);
+    margin: auto;
+    background-color: white;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+#messagesList {
+    color: black;
+    font-weight: bold;
+
+}
+#userInput:focus {
+    outline: 3px solid transparent red;
+}
+#messageInput{
+
+}
+#texto{
+    font-weight: bold;
+
+    
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+}
+.title{
+    margin-right:auto;
+    margin-left: auto;
+}

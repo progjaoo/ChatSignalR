@@ -1,0 +1,8 @@
+D:\Testes\ChatBlog\ChatBlog\obj\Release\net6.0\PubTmp\Out\ChatBlog.exe
+D:\Testes\ChatBlog\ChatBlog\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Testes\ChatBlog\ChatBlog\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Testes\ChatBlog\ChatBlog\obj\Release\net6.0\PubTmp\Out\libman.json
+D:\Testes\ChatBlog\ChatBlog\obj\Release\net6.0\PubTmp\Out\ChatBlog.dll
+D:\Testes\ChatBlog\ChatBlog\obj\Release\net6.0\PubTmp\Out\ChatBlog.deps.json
+D:\Testes\ChatBlog\ChatBlog\obj\Release\net6.0\PubTmp\Out\ChatBlog.runtimeconfig.json
+D:\Testes\ChatBlog\ChatBlog\obj\Release\net6.0\PubTmp\Out\ChatBlog.pdb
